@@ -1,4 +1,4 @@
 # P1
-Amazon
+First repo
 <br>
 By - Kasim Nalawala
